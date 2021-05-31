@@ -825,7 +825,7 @@
         </style>
         <section class="section5"> 
             <div class="our-text">
-                GLApps Ins . &copy; 2021
+                RK..design1.. . &copy; 2021
                 <br>
                 All Rights Reserved
             </div>
